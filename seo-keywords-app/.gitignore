@@ -1,0 +1,19 @@
+# deps
+frontend/node_modules/
+backend/.venv/
+
+# python cache
+**/__pycache__/
+
+# env/secrets
+*.env
+.env
+frontend/.env
+backend/.env
+
+# OS/IDE
+.DS_Store
+
+# builds
+dist/
+build/
