@@ -1,4 +1,4 @@
-S# SEO Keyword Generator & Copy Composer (FastAPI + React)
+# SEO Keyword Generator & Copy Composer (FastAPI + React)
 
 Generate **English SEO keywords** and a **template-driven SEO draft** from uploaded **PDF/DOCX** files.  
 Designed for an inbound tourism site (Ecuador, Peru, Galápagos) targeting **Europe, US/Canada, and Asia** travelers.
